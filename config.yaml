@@ -1,0 +1,7 @@
+baseURL: 'http://example.org/'
+languageCode: 'en-us'
+title: 'My Hugo Test Site'
+theme: 'PaperMod'
+
+params:
+    ShowBreadCrumbs: true
